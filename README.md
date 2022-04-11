@@ -8,3 +8,6 @@ Instructions:
 3) Once the web page is fully loaded, click the green run button
 4) Enter height in inches and feet and weight in pounds when prompted 
 5) Success!
+
+
+[![Coverage Status](https://coveralls.io/repos/github/SupremeDuck1ing/Assignment3Q-A/badge.svg?branch=Production)](https://coveralls.io/github/SupremeDuck1ing/Assignment3Q-A?branch=Production)
